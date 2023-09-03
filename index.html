@@ -25,8 +25,12 @@
     cursor: pointer;
   }
 
-  details > :is(p,ul) {
+  details > :is(p,ul, ol) {
     margin-left: 30px;
+  }
+
+  ul, li{
+    line-height: 30px;
   }
 </style>
 <body>
@@ -34,7 +38,7 @@
   <p>Law for idiots is a non-profit organization that aims to make the law a lot less scary to those who are facing legal troubles but have zero experience and no clue where to start when it comes to dealing with legal matters. We do not waste your time with legal jargon and all that nonsense, the law should be accessible to everyone in South Africa and not just those with fat wallets</p>
   <p>Our mission is to turn the law into something that is approachable and accessible to all citizens of South Africa</p>
   <hr>
-  <details open>
+  <details>
     <summary>Labour Law</summary>
     <p>
       Labour law consists of any law that governs the employee/employer relationship. There are a number of labour laws but the most important to know are the:
@@ -75,30 +79,42 @@
       </li>
     </ul>
     <p>Any infringement in regard to the above labour laws can be dealt with via the relevant governing body such as the:</p>
-    <ul>
+    <ul style="list-style-type: none;">
       <li>
-        <a
-          href="https://www.labour.gov.za/"
-          target="_blank"
-        >
-          Department of Labour
-        </a>
+        <details>
+          <summary>
+            Department of Labour (DoL)
+          </summary>
+          <p>
+            The DoL deals with managing general issues between the employee/employer.
+          </p>
+          <p>Here are some of the issues that the DoL deals with:</p>
+          <ol>
+            <li>Withholding of salary - It is illegal for your employer to withhold your salary</li>
+            <li>Salary deductions - It is illegal for your employer to deduct money from your salary</li>
+            <li>Labour site inspections - Ensure that the employer is complying with labour laws</li>
+            <li>Unemployment insurance fund applications - In the event that you are unable to seek work</li>
+          </ol>
+        </details>
       </li>
       <li>
-        <a
-          href="https://www.ccma.org.za/"
-          target="_blank"
-        >
-          CCMA
-        </a>
-      </li>
-      <li>
-        <a
-          href="https://www.justice.gov.za/labourcourt/"
-          target="_blank"
-        >
-          Labour Court
-        </a>
+        <details>
+          <summary>
+            CCMA
+          </summary>
+          <p>
+            The Council for Conciliation, Mediation and Arbitration (CCMA) deals with issues that the DoL is unable to fulfill.
+          </p>
+          <p>Here are some of the issues the CCMA deals with:</p>
+          <ol>
+            <li>Unfair dismissal</li>
+            <li>Unfair labour practices</li>
+            <li>Discrimination</li>
+            <li>Wage disputes</li>
+            <li>Other labour-related disputes</li>
+          </ol>
+          <p>Think of the CCMA as a step above the DoL in terms of the level of issues that are dealt with</p>
+        </details>
       </li>
     </ul>
   </details>
