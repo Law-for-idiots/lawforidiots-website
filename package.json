@@ -1,0 +1,19 @@
+{
+  "name": "lawforidiots.org",
+  "version": "1.0.0",
+  "description": "Law for idiots is a non-profit organization that aims to make the law approachable and accessible for all South Africans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShailenNaidoo/lawforidiots.git"
+  },
+  "author": "Shailen Naidoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShailenNaidoo/lawforidiots/issues"
+  },
+  "homepage": "https://github.com/ShailenNaidoo/lawforidiots#readme"
+}
