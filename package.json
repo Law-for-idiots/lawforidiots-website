@@ -1,6 +1,6 @@
 {
   "name": "lawforidiots.org",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Law for idiots is a non-profit organization that aims to make the law approachable and accessible for all South Africans",
   "main": "index.js",
   "scripts": {
