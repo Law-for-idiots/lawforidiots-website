@@ -1,0 +1,3 @@
+apprun() {
+  npx serve
+}
