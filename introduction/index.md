@@ -4,4 +4,4 @@ I started this resource with a clear intent of making the law approachable and a
 
 ## What is the law?
 
-The law is a framework of rules created through a number of legal-political processes and is enforced through social and governmental institutions. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm.
+The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm.
