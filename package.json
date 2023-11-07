@@ -4,7 +4,10 @@
   "description": "Law for idiots is a non-profit organization that aims to make the law approachable and accessible for all South Africans",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ShailenNaidoo/lawforidiots/issues"
   },
-  "homepage": "https://github.com/ShailenNaidoo/lawforidiots#readme"
+  "homepage": "https://github.com/ShailenNaidoo/lawforidiots#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.25"
+  },
+  "type": "module"
 }
