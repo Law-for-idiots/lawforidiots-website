@@ -25,6 +25,10 @@ export default defineConfig({
       // { text: 'Examples', link: '/markdown-examples' }
     ],
 
+    editLink: {
+      pattern: 'https://github.com/teddydaniels/lawforidiots/edit/main/:path'
+    },
+
     sidebar: [
       // {
       //   text: 'Examples',
