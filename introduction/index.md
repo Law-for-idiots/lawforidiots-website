@@ -1,6 +1,7 @@
 ---
 urls:
   constitution_of_the_republic_of_south_africa_pdf: "https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf"
+  constitution_of_south_africa_wikipedia: "https://en.wikipedia.org/wiki/Constitution_of_South_Africa"
   south_africa_police_service_website: "https://www.saps.gov.za/"
   department_of_justice_website: "https://www.justice.gov.za/index.html"
   department_of_labour_website: "https://www.labour.gov.za/Pages/Default.aspx"
@@ -17,6 +18,10 @@ I started this resource with a clear intent of making the law approachable and a
 ## What is the law?
 
 The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm. The [Constitution of the Republic of South Africa]({{$frontmatter.urls.constitution_of_the_republic_of_south_africa_pdf}}) is the supreme rule of the land, all legislation that is in affect in South Africa has to be verified in relation to whether it is constitutionally correct.
+
+::: info
+The [Constitution of the Republic of South Africa]({{$frontmatter.urls.constitution_of_the_republic_of_south_africa_pdf}})  is one of the most progressive in the world. It is notable for its strong emphasis on human rights and its commitment to building a more equitable and just society. For more information check out the Wikipedia page: [Constitution of South Africa]({{$frontmatter.urls.constitution_of_south_africa_wikipedia}})
+:::
 
 ## How is the law enforced?
 
