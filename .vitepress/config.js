@@ -42,6 +42,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/teddydaniels/lawforidiots' }
     ],
+
+    search: {
+      provider: 'local'
+    },
   },
   lastUpdated: true,
   srcExclude: ['README.md']
