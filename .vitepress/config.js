@@ -19,6 +19,8 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    logo: '/homepage.svg',
+    siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       // { text: 'Home', link: '/' },
