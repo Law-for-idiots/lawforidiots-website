@@ -43,5 +43,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/teddydaniels/lawforidiots' }
     ],
   },
+  lastUpdated: true,
   srcExclude: ['README.md']
 })
