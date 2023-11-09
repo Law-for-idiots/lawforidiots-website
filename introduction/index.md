@@ -5,3 +5,7 @@ I started this resource with a clear intent of making the law approachable and a
 ## What is the law?
 
 The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm.
+
+## How is the law enforced?
+
+The law is enforced through a number of social and governmental institutions such as the [Police](https://www.saps.gov.za/), [Department of Justice](https://www.justice.gov.za/index.html), [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx) and etc. There are numerous institutions that regulate and enforce specific pieces of legislation, for example, the [National Consumer Commission](https://thencc.org.za/) is the institution that enforces the [Consumer Protection Act of 2008](https://www.gov.za/sites/default/files/32186_467.pdf) and the [Rental Housing Tribunal](https://www.westerncape.gov.za/general-publication/rental-housing-tribunal) is the institution that enforces the [Rental Housing Act of 1999](https://www.gov.za/sites/default/files/gcis_document/201409/a50-99.pdf).
