@@ -4,7 +4,7 @@ I started this resource with a clear intent of making the law approachable and a
 
 ## What is the law?
 
-The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm. The [Constitution of The Republic of South Africa](https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf) is the supreme rule of the land, all legislation that is in affect in South Africa has to be verified in relation to whether it is constitutionally correct.
+The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm. The [Constitution of the Republic of South Africa](https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf) is the supreme rule of the land, all legislation that is in affect in South Africa has to be verified in relation to whether it is constitutionally correct.
 
 ## How is the law enforced?
 
