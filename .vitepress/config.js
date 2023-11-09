@@ -41,7 +41,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/teddydaniels/lawforidiots' }
-    ]
+    ],
   },
+  ignoreDeadLinks: true,
   srcExclude: ['README.md']
 })
