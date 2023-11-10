@@ -1,3 +1,3 @@
 apprun() {
-  npx serve
+  npm run docs:dev
 }
