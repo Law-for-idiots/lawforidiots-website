@@ -24,7 +24,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Law Library', link: 'https://lawlibrary.org.za/' },
-      { text: 'Laws.Africa', link: 'https://laws.africa/' }
+      { text: 'Laws.Africa', link: 'https://laws.africa/' },
+      { text: 'Parliamentary Monitoring Group', link: 'https://pmg.org.za/' },
     ],
 
     editLink: {
