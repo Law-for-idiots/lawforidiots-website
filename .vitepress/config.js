@@ -23,8 +23,8 @@ export default defineConfig({
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      // { text: 'Home', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Law Library', link: 'https://lawlibrary.org.za/' },
+      { text: 'Laws.Africa', link: 'https://laws.africa/' }
     ],
 
     editLink: {
