@@ -49,6 +49,10 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+
+    footer: {
+      copyright: 'Copyright © 2023-present <a href="https://www.linkedin.com/in/shailen-naidoo/" target="_blank">Shailen Naidoo</a>'
+    }
   },
   lastUpdated: true,
   srcExclude: ['README.md']
