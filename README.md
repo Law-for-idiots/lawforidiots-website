@@ -25,4 +25,4 @@ Click on the provided URL that is logged to the console and you wil be able to v
 
 ## Contributions
 
-If you are interested in contributing to the project, you are more than welcome to clone the repository and make a pull request.
+If you are interested in contributing to the project, you are more than welcome to clone the repository and make a pull request. We have a [Trello Board](https://trello.com/b/EOj57Wxs/law-for-idiots), you might have to request access to join.
