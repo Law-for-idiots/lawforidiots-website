@@ -23,9 +23,15 @@ export default defineConfig({
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Law Library', link: 'https://lawlibrary.org.za/' },
-      { text: 'Laws.Africa', link: 'https://laws.africa/' },
-      { text: 'Parliamentary Monitoring Group', link: 'https://pmg.org.za/' },
+      {
+        text: 'Legal Resources',
+        items: [
+          { text: 'Law Library', link: 'https://lawlibrary.org.za/' },
+          { text: 'Laws.Africa', link: 'https://laws.africa/' },
+          { text: 'Constitution Compass', link: 'https://constitutioncompass.org.za/' },
+          { text: 'Parliamentary Monitoring Group', link: 'https://pmg.org.za/' },
+        ]
+      }
     ],
 
     editLink: {
