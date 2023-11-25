@@ -50,7 +50,8 @@ export default defineConfig({
           {
             text: 'Labour Law',
             items: [
-              { text: 'Salary deductions without my consent', link: '/how-to-guides/labour-law/salary-deductions-without-my-consent' }
+              { text: 'Salary deductions without my consent', link: '/how-to-guides/labour-law/salary-deductions-without-my-consent' },
+              { text: 'Employment contract states that my salary is to be private', link: '/how-to-guides/labour-law/employment-contract-states-that-my-salary-is-to-be-private' }
             ]
           }
         ],
