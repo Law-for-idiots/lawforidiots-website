@@ -8,7 +8,7 @@ description: "Your employer cannot force you to keep your conditions of employme
 
 It is common practice for employers to add clauses to their employment contracts which forces the employee to keep their salary private and confidential, meaning that they cannot disclose their salary to any third-party during the course of their employment. It might also be the case that if the employee is caught disclosing their salary to a third-party, they may be issued a disciplinary hearing with a possibility of dismissal. 
 
-This practice by employers has always been unlawful and unenforceable, an employer cannot force you to keep your salary information private, you are allowed to ask other employees about your salary, this allows you to gauge whether the employer is paying you fairly.
+This practice by employers has always been unlawful and unenforceable, an employer cannot force you to keep your salary information private, you are allowed to share with other employees your salary information, this allows you to gauge whether the employer is paying you fairly or not.
 
 ::: warning
 An employer that is not open about their pay practices definitely has something to hide and you should take this as a red flag immediately.
