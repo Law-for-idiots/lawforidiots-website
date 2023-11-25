@@ -1,5 +1,5 @@
 ---
-description: "Your employer does own the copyrights to all your work produced during the course and scope of your employment but it **does not mean that you cannot negotiate at the employment contract phase."
+description: "Your employer does own the copyrights to all your work produced during the course and scope of your employment but it does not mean that you cannot negotiate at the employment contract phase."
 ---
 
 # Employer claims that they own all copyrights of my work
