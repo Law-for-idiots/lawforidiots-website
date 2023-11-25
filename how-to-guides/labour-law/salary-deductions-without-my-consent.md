@@ -8,7 +8,7 @@ description: "Your employer cannot deduct money from your salary without your wr
 
 It is common practice for businesses to deduct money from their employees salary in response to some kind of misconduct such as insubordination. They typically do this by playing on the ignorance of their employees who do not know much about labour law. If an employer wishes to deduct money from your salary they would need to discuss this with you in a formal manner or at least notify you of the intent of doing so and they would need your written consent before they can action this.
 
-## What is the legislation that governs this?
+## What legislation governs this?
 
 The [Basic Conditions of Employment Act of 1997 - Section 34](https://lawlibrary.org.za/akn/za/act/1997/75/eng@1997-12-05#chp_Four__sec_34), this covers everything in regard to salary deductions.
 
