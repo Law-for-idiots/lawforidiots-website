@@ -22,6 +22,6 @@ The [Basic Conditions of Employment Act of 1997 - Section 78](https://lawlibrary
 
 Any clauses that are unlawful and unenforceable that are found in your contract, those automatically become invalid but this does not mean that your entire employment contract is invalid. The clauses that are lawful and enforceable still apply, you are welcome to raise it as a concern with your employer or you can reach out to the [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx)
 
-::: info
-In summary, your employer cannot **force** you to keep your conditions of employment **private** such as **salary information**, this is **unlawful** and **unenforceable**.
+::: info Summary
+Your employer cannot **force** you to keep your conditions of employment **private** such as **salary information**, this is **unlawful** and **unenforceable**.
 :::

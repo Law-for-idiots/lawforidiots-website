@@ -19,6 +19,6 @@ If your employer has indeed deducted money from your salary without your consent
 1. Sending your employer a **letter of demand** or you could get a lawyer to do so on your behalf.
 2. You can contact the [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx) (DoL) where you can lodge a complaint against your employer, the DoL may fine the employer for misconduct and they will force the employer to pay you back.
 
-::: info
-In summary, your employer cannot **deduct money** from your salary without your **written consent**. You are **within your rights** to send them a **letter of demand** or **lodge a complaint** via the [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx).
+::: info Summary
+Your employer cannot **deduct money** from your salary without your **written consent**. You are **within your rights** to send them a **letter of demand** or **lodge a complaint** via the [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx).
 :::

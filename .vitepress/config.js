@@ -51,7 +51,8 @@ export default defineConfig({
             text: 'Labour Law',
             items: [
               { text: 'Salary deductions without my consent', link: '/how-to-guides/labour-law/salary-deductions-without-my-consent' },
-              { text: 'Employment contract states that my salary is to be private', link: '/how-to-guides/labour-law/employment-contract-states-that-my-salary-is-to-be-private' }
+              { text: 'Employment contract states that my salary is to be private', link: '/how-to-guides/labour-law/employment-contract-states-that-my-salary-is-to-be-private' },
+              { text: 'Employer claims that they own all copyrights of my work', link: '/how-to-guides/labour-law/employer-claims-that-they-own-all-copyrights-of-my-work' },
             ],
           }
         ],
