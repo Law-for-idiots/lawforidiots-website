@@ -4,10 +4,10 @@ I started this resource with a clear intent of making the law approachable and a
 
 ## What is the law?
 
-The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm. The [Constitution of the Republic of South Africa](https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf) is the supreme rule of the land, all legislation that is in affect in South Africa has to be verified in relation to whether it is constitutionally correct.
+The law is a framework of rules created through a number of legal-political processes. At its core, the law is about justice and fairness. It is designed to protect the rights of individuals and to ensure that everyone is treated equally. The law also plays an important role in maintaining order and preventing harm. The [Constitution of the Republic of South Africa](https://lawlibrary.org.za/akn/za/act/1996/constitution/eng@2013-08-23) is the supreme rule of the land, all legislation that is in affect in South Africa has to be verified in relation to whether it is constitutionally correct.
 
 ::: info
-The [Constitution of the Republic of South Africa](https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf)  is one of the most progressive in the world. It is notable for its strong emphasis on human rights and its commitment to building a more equitable and just society. For more information check out the Wikipedia page: [Constitution of South Africa](https://en.wikipedia.org/wiki/Constitution_of_South_Africa)
+The [Constitution of the Republic of South Africa](https://lawlibrary.org.za/akn/za/act/1996/constitution/eng@2013-08-23)  is one of the most progressive in the world. It is notable for its strong emphasis on human rights and its commitment to building a more equitable and just society. For more information check out the Wikipedia page: [Constitution of South Africa](https://en.wikipedia.org/wiki/Constitution_of_South_Africa)
 :::
 
 ## How is the law enforced?
@@ -16,4 +16,4 @@ The law is enforced through a number of social and governmental institutions suc
 
 ## What is an "open court"?
 
-Very few people know that in South Africa, all courts are "open courts". Meaning that anyone could just go and sit-in on court room proceedings, this is a part of the the open and transparency movement of the legal system as enshrined in the [Constitution of the Republic of South Africa](https://www.justice.gov.za/legislation/constitution/saconstitution-web-eng.pdf). This also applies to most court documents, these documents are public record, meaning that you are more than welcome to obtain a copy of a court file. There are cases where certain documents are closed to the public especially in the event of witnesses or where peoples identities need to be made confidential.
+Very few people know that in South Africa, all courts are "open courts". Meaning that anyone could just go and sit-in on court room proceedings, this is a part of the the open and transparency movement of the legal system as enshrined in the [Constitution of the Republic of South Africa](https://lawlibrary.org.za/akn/za/act/1996/constitution/eng@2013-08-23). This also applies to most court documents, these documents are public record, meaning that you are more than welcome to obtain a copy of a court file. There are cases where certain documents are closed to the public especially in the event of witnesses or where peoples identities need to be made confidential.
