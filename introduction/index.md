@@ -12,7 +12,7 @@ The [Constitution of the Republic of South Africa](https://lawlibrary.org.za/akn
 
 ## How is the law enforced?
 
-The law is enforced through a number of social and governmental institutions such as the [Police](https://www.saps.gov.za/), [Department of Justice](https://www.justice.gov.za/index.html), [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx) and etc. There are numerous institutions that regulate and enforce specific pieces of legislation, for example, the [National Consumer Commission](https://thencc.org.za/) is the institution that enforces the [Consumer Protection Act of 2008](https://www.gov.za/sites/default/files/32186_467.pdf) and the [Rental Housing Tribunal](https://www.westerncape.gov.za/general-publication/rental-housing-tribunal) is the institution that enforces the [Rental Housing Act of 1999](https://www.gov.za/sites/default/files/gcis_document/201409/a50-99.pdf).
+The law is enforced through a number of social and governmental institutions such as the [Police](https://www.saps.gov.za/), [Department of Justice](https://www.justice.gov.za/index.html), [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx) and etc. There are numerous institutions that regulate and enforce specific pieces of legislation, for example, the [National Consumer Commission](https://thencc.org.za/) is the institution that enforces the [Consumer Protection Act of 2008](https://lawlibrary.org.za/akn/za/act/2008/68/eng@2015-03-13) and the [Rental Housing Tribunal](https://www.westerncape.gov.za/general-publication/rental-housing-tribunal) is the institution that enforces the [Rental Housing Act of 1999](https://lawlibrary.org.za/akn/za/act/1999/50/eng@2008-05-13).
 
 ## What is an "open court"?
 
