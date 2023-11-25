@@ -1,3 +1,7 @@
+---
+description: "Your employer cannot deduct money from your salary without your written consent. You are within your rights to send them a letter of demand or lodge a complaint via the Department of Labour."
+---
+
 # Salary deductions without my consent
 
 ## What is the issue?
