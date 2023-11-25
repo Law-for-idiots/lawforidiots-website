@@ -39,13 +39,22 @@ export default defineConfig({
     },
 
     sidebar: [
-      // {
-      //   text: 'Examples',
-      //   items: [
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // }
+      {
+        text: 'Introduction',
+        link: '/introduction/',
+
+      },
+      {
+        text: 'How-to Guides',
+        items: [
+          {
+            text: 'Labour Law',
+            items: [
+              { text: 'Salary deductions without my consent', link: '/how-to-guides/labour-law/salary-deductions-without-my-consent' }
+            ]
+          }
+        ],
+      }
     ],
 
     socialLinks: [
