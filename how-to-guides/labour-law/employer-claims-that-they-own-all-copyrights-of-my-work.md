@@ -23,3 +23,7 @@ The [Copyright Act of 1978](https://lawlibrary.org.za/akn/za/act/1978/98/eng@198
 ::: info Summary
 Your employer does **own** the copyrights to **all your work produced** during the **course and scope** of your **employment** but it **does not mean** that you cannot negotiate at the employment contract phase or during the scope and course of your employment.
 :::
+
+## Relevant cases?
+
+1. _[King v South African Weather Services (716/2007) [2008] ZASCA 143 (27 November 2008)](https://lawlibrary.org.za/akn/za/judgment/zasca/2008/143/eng@2008-11-27)_
