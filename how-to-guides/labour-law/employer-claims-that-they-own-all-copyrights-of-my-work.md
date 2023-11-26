@@ -27,3 +27,9 @@ Your employer does **own** the copyrights to **all your work produced** during t
 ## Relevant cases?
 
 1. _[King v South African Weather Services (716/2007) [2008] ZASCA 143 (27 November 2008)](https://lawlibrary.org.za/akn/za/judgment/zasca/2008/143/eng@2008-11-27)_
+
+---
+
+::: info Verified By
+This publication has been verified by [Rhea Maistry](https://www.linkedin.com/in/rhea-maistry-38922421b/) - 4th Year LLB student
+:::
