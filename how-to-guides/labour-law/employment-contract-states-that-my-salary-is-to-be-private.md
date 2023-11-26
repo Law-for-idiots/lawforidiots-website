@@ -11,7 +11,7 @@ It is common practice for employers to add clauses to their employment contracts
 This practice by employers has always been unlawful and unenforceable, an employer cannot force you to keep your salary information private, you are allowed to share with other employees your salary information, this allows you to gauge whether the employer is paying you fairly or not.
 
 ::: warning
-An employer that is not open about their pay practices definitely has something to hide and you should take this as a red flag immediately.
+An employer that is not **open** about their pay practices definitely has something to **hide** and you should take this as a **red flag** immediately.
 :::
 
 ## What legislation governs this?
