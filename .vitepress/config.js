@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { version } from '../package.json'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -69,7 +70,7 @@ export default defineConfig({
 
     footer: {
       message: '<a href="https://github.com/Law-for-idiots/lawforidiots-website/blob/main/LICENSE" target="_blank">GNU Affero General Public License v3.0</a>',
-      copyright: 'Copyright © 2023-present <a href="https://www.linkedin.com/in/shailen-naidoo/" target="_blank">Shailen Naidoo</a>'
+      copyright: `Copyright © 2023-present <a href="https://www.linkedin.com/in/shailen-naidoo/" target="_blank">Shailen Naidoo</a> - V${version}`
     }
   },
   lastUpdated: true,
