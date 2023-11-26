@@ -22,3 +22,7 @@ If your employer has indeed deducted money from your salary without your consent
 ::: info Summary
 Your employer cannot **deduct money** from your salary without your **written consent**. You are **within your rights** to send them a **letter of demand** or **lodge a complaint** via the [Department of Labour](https://www.labour.gov.za/Pages/Default.aspx).
 :::
+
+## Relevant cases?
+
+_Know of any relevant cases, please feel free to add a reference(s) here._

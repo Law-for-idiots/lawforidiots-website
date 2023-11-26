@@ -25,3 +25,7 @@ Any clauses that are unlawful and unenforceable that are found in your contract,
 ::: info Summary
 Your employer cannot **force** you to keep your conditions of employment **private** such as **salary information**, this is **unlawful** and **unenforceable**.
 :::
+
+## Relevant cases?
+
+_Know of any relevant cases, please feel free to add a reference(s) here._

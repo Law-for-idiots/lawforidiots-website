@@ -35,7 +35,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/teddydaniels/lawforidiots/edit/main/:path'
+      pattern: 'https://github.com/Law-for-idiots/lawforidiots/edit/main/:path'
     },
 
     sidebar: [
@@ -60,7 +60,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/teddydaniels/lawforidiots' }
+      { icon: 'github', link: 'https://github.com/Law-for-idiots/lawforidiots' }
     ],
 
     search: {
