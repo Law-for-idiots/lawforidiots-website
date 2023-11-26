@@ -70,7 +70,7 @@ export default defineConfig({
 
     footer: {
       message: '<a href="https://github.com/Law-for-idiots/lawforidiots-website/blob/main/LICENSE" target="_blank">GNU Affero General Public License v3.0</a>',
-      copyright: `Copyright © 2023-present <a href="https://www.linkedin.com/in/shailen-naidoo/" target="_blank">Shailen Naidoo</a> - V${version}`
+      copyright: `Copyright © 2023-present <a href="https://www.linkedin.com/in/shailen-naidoo/" target="_blank">Shailen Naidoo</a> - <a href="https://github.com/Law-for-idiots/lawforidiots-website/releases/tag/v${version}" target="_blank">V${version}</a>`
     }
   },
   lastUpdated: true,
