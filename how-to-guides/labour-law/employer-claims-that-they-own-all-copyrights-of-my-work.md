@@ -31,5 +31,8 @@ Your employer does **own** the copyrights to **all your work produced** during t
 ---
 
 ::: info Verified By
-This publication has been verified by [Rhea Maistry](https://www.linkedin.com/in/rhea-maistry-38922421b/) - 4th Year LLB student
+This publication has been verified by:
+
+1. [Rhea Maistry](https://www.linkedin.com/in/rhea-maistry-38922421b/) - 4th Year LLB student
+2. [Kadi Petje](mailto:KPetje@cipc.co.za) - Senior Manager: Creative Industries (Copyright) @ [CIPC](https://www.cipc.co.za/)
 :::
