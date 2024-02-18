@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ShailenNaidoo/lawforidiots#readme",
   "dependencies": {
-    "vitepress": "^1.0.0-rc.33"
+    "vitepress": "^1.0.0-rc.43"
   },
   "type": "module"
 }
